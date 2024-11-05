@@ -1,0 +1,22 @@
+body {
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  margin: 20px;
+  gap: 10px;
+  padding: 20px;
+}
+
+#character-list {
+  align-items: center;
+  height: 50px;
+  text-align: center;
+  border: solid rgb(0, 0, 0) 2px;
+}
+
+.character-image {
+  height: auto;
+  width: auto;
+  align-items: center;
+  border: solid rgb(0, 0, 0) 2px;
+}
