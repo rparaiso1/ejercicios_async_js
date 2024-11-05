@@ -7,7 +7,7 @@ body {
 .random-image {
   align-items: center;
   justify-content: center;
-  border: 2px rgb(0, 0, 0) solid;
+  border: 2px rgba(0, 0, 0, 0.186) solid;
   height: 200px;
   width: 200px;
 }
